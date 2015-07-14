@@ -1,7 +1,7 @@
 <?php
 namespace Hautelook\AliceBundle\Alice;
 
-use Nelmio\Alice\ORM\Doctrine as BaseDoctrine;
+use Nelmio\Alice\Persister\Doctrine as BaseDoctrine;
 
 /**
  * Class Doctrine - Adapter for Doctrine ORM
